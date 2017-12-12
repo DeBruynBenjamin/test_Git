@@ -4,7 +4,11 @@
 
   <groupId>com.gtm</groupId>
   <artifactId>Test_Git</artifactId>
+<<<<<<< HEAD
   <version>0.0.4-SNAPSHOT</version>
+=======
+  <version>0.0.4-SNAPSHOT</version>
+>>>>>>> branche1
   <packaging>jar</packaging>
 
   <name>Test_Git</name>
